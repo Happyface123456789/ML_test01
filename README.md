@@ -7,3 +7,5 @@
 * 티처블 머신도 배우고
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
+
+https://accounts.google.com/RotateCookiesPage?og_pid=2&rot=3&origin=https%3A%2F%2Fwww.google.com&exp_id=3701169
